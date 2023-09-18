@@ -4,6 +4,9 @@
 ### Jordan Silver
 ### Thomas Kim
 
+Motivation and Description: The motivation for this project is that there are a lot of conditions that are caused by DNA and DNA mutation. For this project we wanted to dive deeper into creating a program that will help users (targertting base level biology/life science students) to learn more about how mutations and other DNA complications work. 
+
+
 Relation to Parsing, Interpretation, and Compilation:
 Parsing in the DNA Project:
 In the context of our DNA-based Blocky project, parsing is analogous to the process by which the system reads and understands the DNA sequence set by the user. Just as a computer parser reads and checks the syntax of a code to ensure it is structured correctly, the DNA project parses the input DNA sequence to ensure it's a valid representation of genetic information. For instance, the system would ensure that only the correct nucleotides (A, T, C, G) are used in an appropriate structure. This step is vital as it sets the foundation for subsequent processes, ensuring that only accurate genetic information is used for replication, transcription, and translation.
