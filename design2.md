@@ -2,8 +2,8 @@ As for this project, the pseudo-code would look something like this in JavaScrip
 
 
 ```
-var DNA1, DNA2, numMutations, Count;
 JavaScript
+var DNA1, DNA2, numMutations, Count;
 DNA1 = 'ATCGATCGATCG'; #we want to be able to have users put in a set number of characters to compare
 DNA2 = 'ATCGATGGATCG'; #we want to be able to have users put in a set number of characters to compare
 numMutations = 0;
